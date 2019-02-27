@@ -19,7 +19,7 @@ let temp;
 let bg;
 
 function preload(){
-  bg = loadImage('https://cdn.britannica.com/70/191970-131-A85628DA.jpg');
+  bg = loadImage('colors.jpg');
 
 }
 
