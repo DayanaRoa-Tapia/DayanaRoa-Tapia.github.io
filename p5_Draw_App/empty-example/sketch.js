@@ -19,7 +19,7 @@ let temp;
 let bg;
 
 function preload(){
-  bg = loadImage('colors.jpg');
+  bg = loadImage('../colors.jpg');
 
 }
 
